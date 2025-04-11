@@ -3,7 +3,7 @@ import { NewArticle } from "./NewArticle";
 export const NewContainer = () => {
   return (
     <aside class="bg-slate-950 text-neutral-50 py-[28px] px-[20px]">
-      <h1 class="text-orange-600 text-4xl font-bold">New</h1>
+      <h1 class="text-orange-300 text-4xl font-bold">New</h1>
       <NewArticle
         title="Hydrogen VS Electric Cars"
         text="Will hydrogen-fueled cars ever catch up to EVs?"
