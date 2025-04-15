@@ -19,7 +19,7 @@ export const MainArticle = () => {
             power of the platforms back into the hands of the people. But is it
             really fulfilling its promise?
           </p>
-          <button class="bg-chocolate w-[185px] h-[48px] uppercase text-neutral-50 hover:bg-slate-950">Read more</button>
+          <button class="bg-SoftRed w-[185px] h-[48px] uppercase text-neutral-50 hover:bg-slate-950">Read more</button>
         </div>
       </div>
     </section>

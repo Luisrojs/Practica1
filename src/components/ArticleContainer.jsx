@@ -6,7 +6,7 @@ import { Article } from "./Article";
 
 export const ArticleContainer = () => {
   return (
-    <section class="mt-6 lg:flex ">
+    <section class="mt-6 md:flex md:flex-wrap gap-10">
       <Article
         image={img1}
         number="01"

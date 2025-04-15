@@ -1,6 +1,6 @@
 export const Article = ({ image, number, title, text }) => {
   return (
-    <article class="flex h-[162px]">
+    <article class="flex h-[162px] md:w-[343px] md:flex-grow">
       <div class="w-[100px] flex-none">
         <img src={image} alt="Imagen1" />
       </div>

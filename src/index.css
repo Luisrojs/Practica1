@@ -1,8 +1,11 @@
 @import "tailwindcss";
 
 @theme {
-
-    --color-chocolate: #86563c;
-
-
+  --color-chocolate: #86563c;
+  --color-SoftOrange: rgb(233, 171, 83);
+  --color-SoftRed: rgb(241, 93, 80);
+  --color-OffWhite: #fffdfa;
+  --color-GrayishBlue: #c5c6ce;
+  --color-DarkGrayishBlue: #5d5f79;
+  --color-VeryDarkBlue: #00001a;
 }
